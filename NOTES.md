@@ -17,3 +17,6 @@
 
 <img width="326" height="491" alt="проба_генератора" src="https://github.com/user-attachments/assets/7e2ffb3b-3355-4760-8df9-ff66adb06ebd" />
 
+
+## 2026-07-07
+- создан внешний переключаемый фнч на 7 и 14мгц
