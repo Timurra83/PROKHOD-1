@@ -27,6 +27,7 @@
 
 - проведены симуляции 
 <img width="1495" height="1040" alt="V_drain" src="https://github.com/user-attachments/assets/07df23c4-3723-4941-a842-5254e4969538" />
-<img width="1495" height="1040" alt="V_drain" src="https://github.com/user-attachments/assets/efee049b-0a2f-4f16-82f9-6601f74bf746" />
+<img width="1495" height="754" alt="Spectrum" src="https://github.com/user-attachments/assets/cb839e91-2140-4ef2-ac8f-20015d719d82" />
+
 
 
