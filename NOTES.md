@@ -23,5 +23,10 @@
 
 ## 2026-10-17
 - создана схема усилителя Е класса
+<img width="1410" height="437" alt="ob_nRxBAPlznsmBBmo595xdrLZL8nT6FSfbiTSLedrZoUWSKNwbQLUgxBWNqFMzVCD6BrEOcZuEIFtdRg6KWgyHO" src="https://github.com/user-attachments/assets/ad2df245-1a87-4644-9289-6111e39a31f2" />
+
+- проведены симуляции 
+<img width="1495" height="1040" alt="V_drain" src="https://github.com/user-attachments/assets/07df23c4-3723-4941-a842-5254e4969538" />
+<img width="1495" height="1040" alt="V_drain" src="https://github.com/user-attachments/assets/efee049b-0a2f-4f16-82f9-6601f74bf746" />
 
 
